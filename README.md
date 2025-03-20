@@ -1,1 +1,1 @@
-this is a draft contact page made whit bootstrap
+this is a contact page made whit bootstrap
